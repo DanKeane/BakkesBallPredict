@@ -1,0 +1,15 @@
+﻿  AutoTrainingPlugin.cpp
+C:\Users\Dan\Desktop\rocketleagueplugins\AutoTrainingPlugin\AutoTrainingPlugin\AutoTrainingPlugin.cpp(155,29): warning C4309: 'argument': truncation of constant value
+C:\Users\Dan\Desktop\rocketleagueplugins\AutoTrainingPlugin\AutoTrainingPlugin\AutoTrainingPlugin.cpp(155,24): warning C4309: 'argument': truncation of constant value
+C:\Users\Dan\Desktop\rocketleagueplugins\AutoTrainingPlugin\AutoTrainingPlugin\AutoTrainingPlugin.cpp(155,19): warning C4309: 'argument': truncation of constant value
+C:\Users\Dan\Desktop\rocketleagueplugins\AutoTrainingPlugin\AutoTrainingPlugin\AutoTrainingPlugin.cpp(237,32): warning C4309: 'argument': truncation of constant value
+C:\Users\Dan\Desktop\rocketleagueplugins\AutoTrainingPlugin\AutoTrainingPlugin\AutoTrainingPlugin.cpp(237,21): warning C4309: 'argument': truncation of constant value
+C:\Users\Dan\Desktop\rocketleagueplugins\AutoTrainingPlugin\AutoTrainingPlugin\AutoTrainingPlugin.cpp(248,32): warning C4309: 'argument': truncation of constant value
+C:\Users\Dan\Desktop\rocketleagueplugins\AutoTrainingPlugin\AutoTrainingPlugin\AutoTrainingPlugin.cpp(248,21): warning C4309: 'argument': truncation of constant value
+     Creating library .\x64\Release\AutoTrainingPlugin.lib and object .\x64\Release\AutoTrainingPlugin.exp
+  Generating code
+  0 of 366 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AutoTrainingPlugin.vcxproj -> C:\Users\Dan\Desktop\rocketleagueplugins\AutoTrainingPlugin\AutoTrainingPlugin\x64\Release\AutoTrainingPlugin.dll
