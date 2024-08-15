@@ -1,5 +1,5 @@
 # BakkesBallPredict
-> First Project Using C++ So Comment In Issues Anyways You Would Make This Better.
+> First Project Using C++ So Comment In Issues & Anyways You Would Make This Better.
 
 ## ABOUT
 
